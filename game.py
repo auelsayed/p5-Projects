@@ -1,4 +1,3 @@
-from pprint import pprint
 from random import randint
 from copy import deepcopy
 from p5 import *
